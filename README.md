@@ -24,15 +24,19 @@ financial credibility while maintaining control of their personal data.
 
 ## Architecture
 
-(insert diagram)
+![FinCap Score Architecture](screenshots/fincap score workflow diagram.png)
 
 ## Demo
 
-(link)
+(link)[https://fincapscore.lovable.app/]
 
 ## Team
 
-(list team members)
+Christopher Diaz (Project Lead)
+Emmanuel Udah (Technical Lead)
+Renee Jackson (Data/Research Lead)
+Trenna Johnson (Design/Presentation Lead)
+Willie Xu (Documentation Lead)
 
 ## Future Development
 
