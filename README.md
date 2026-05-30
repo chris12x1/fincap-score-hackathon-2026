@@ -30,6 +30,10 @@ financial credibility while maintaining control of their personal data.
 
 [View Live Demo](https://fincapscore.lovable.app/)
 
+## Presentation
+
+[View Presentation](docs/FinCap-Score-Presentation.pdf)
+
 ## Team
 
 Christopher Diaz (Project Lead)
