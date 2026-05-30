@@ -24,11 +24,11 @@ financial credibility while maintaining control of their personal data.
 
 ## Architecture
 
-![FinCap Score Architecture](screenshots/fincap score workflow diagram.png)
+![FinCap Score Architecture](screenshots/fincap%20score%20workflow%20diagram.png)
 
 ## Demo
 
-(link)[https://fincapscore.lovable.app/]
+[View Live Demo](https://fincapscore.lovable.app/)
 
 ## Team
 
