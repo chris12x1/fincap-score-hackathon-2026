@@ -36,10 +36,10 @@ financial credibility while maintaining control of their personal data.
 
 ## Team
 
-Christopher Diaz (Project Lead)
-Emmanuel Udah (Technical Lead)
-Renee Jackson (Data/Research Lead)
-Trenna Johnson (Design/Presentation Lead)
+Christopher Diaz (Project Lead)  
+Emmanuel Udah (Technical Lead)  
+Renee Jackson (Data/Research Lead)  
+Trenna Johnson (Design/Presentation Lead)  
 Willie Xu (Documentation Lead)
 
 ## Future Development
